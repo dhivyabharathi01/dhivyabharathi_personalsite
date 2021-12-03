@@ -1,2 +1,2 @@
 # dhivyabharathi_personalsite
-i have build simple about me and my skills using html and css
+I have build simple personal site about my skills using html and css
