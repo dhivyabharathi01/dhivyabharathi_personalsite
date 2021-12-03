@@ -1,0 +1,139 @@
+body {
+  background-color: #CC0E74;
+  margin: 0;
+  text-align: center;
+  font-size: 125%;
+
+}
+
+h1 {
+  font-family: kalam;
+  font-size: 5.625rem;
+  margin:50px auto 0 auto;
+}
+h2{
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+H3{
+  font-style: italic;
+  color:#9A0680;
+  font-weight: bold;
+}
+p{
+    color:#40514E;
+}
+HR{
+  border: dotted #EAF6F6 6px;
+  width:4%;
+}
+a{
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.des{
+  padding-bottom: 100px;
+}
+.dese{
+  padding-bottom: 200px;
+}
+
+.profile {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+
+.a {
+  padding-top: 100px;
+  position: absolute;
+  display: inline-block;
+  left: 334;
+  right: 333;
+  /*background-color: red;
+    /*display:inline-block;*/
+}
+
+
+.b {
+  background-color: white;
+  position: relative;
+  top: 700px;
+  width: 100%;
+  /*display:inline-block;*/
+}
+
+.skills {
+  background-color:white ;
+  width:50%;
+  margin:auto;
+  line-height: 2;
+}/*#E6739F#FCD2D1;*/
+
+.end {
+  padding-top: 100px;
+  width: 100%;
+  background-color:white;
+  position: relative;
+  top: 700px;
+}
+
+.bulb {
+  position: absolute;
+  background-color: white;
+  height: 200px;
+  width: 200px;
+  left: 800px;
+  bottom: 210px;
+  border-radius: 100%;
+}
+
+.bulbl {
+  position: absolute;
+  background-color: #D3E4CD;
+  height: 200px;
+  width: 200px;
+  right: 800px;
+  bottom: 210px;
+  border-radius: 100%;
+}
+
+.comp {
+  background-color: white;
+  position: relative;
+  height: 200px;
+  width: 200px;
+  top: 50px;
+  border-radius: 100%;
+}
+
+.sa {
+  width: 300px;
+  height: 300px;
+  float:left;
+  margin-right: 30px;
+}
+.sb {
+  width: 300px;
+  height: 300px;
+  float:right;
+  margin-left: 30px;
+  border-radius: 100%;
+}
+.sc {
+  width: 300px;
+  height: 300px;
+  float:left;
+  margin-right: 30px;
+
+}
+
+
+#tag {
+  font-family: "MonteCarlo";
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+#greet{
+  font-family: Georgia,sans-serif;
+}
