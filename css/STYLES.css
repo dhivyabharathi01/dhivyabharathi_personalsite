@@ -30,9 +30,10 @@ HR{
 a{
   margin: 10px 20px;
   text-decoration: none;
+ width:100%
 }
 .des{
-  padding-bottom: 100px;
+  padding-bottom: 200px;
 }
 .dese{
   padding-bottom: 200px;
